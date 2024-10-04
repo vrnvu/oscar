@@ -2,6 +2,9 @@
 
 An assistant for processing and summarizing audio transcriptions.
 
+<img width="759" alt="Screenshot 2024-10-04 at 16 22 57" src="https://github.com/user-attachments/assets/736b3d95-9f2e-4d81-9d27-04daf844b6d1">
+
+
 ## Components
 
 1. **API Service (Go)**
